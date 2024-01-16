@@ -1,0 +1,1 @@
+#define PROTOCOLS   MODBUS_RTU
